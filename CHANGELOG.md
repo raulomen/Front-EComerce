@@ -6,7 +6,7 @@
 ### Removed
 ### Fixed
 
-## [0.0.1] - 2024-08-10
+## [0.0.2] - 2024-08-11
 
 ### Changed
 * Adicionar el Changeload al proyecto.
